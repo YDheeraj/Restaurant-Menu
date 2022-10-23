@@ -15,7 +15,7 @@ function Resturant(){
 
     const [data,setData]=useState(Menu);
     const [menulist,setMenulist]=useState(category);
-   
+    setMenulist(category);
 
     
 

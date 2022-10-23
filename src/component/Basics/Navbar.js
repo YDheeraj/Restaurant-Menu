@@ -1,4 +1,3 @@
-import Menu from "./menuAPI";
 
 function NavBar({filterItem, menulist}){
 
